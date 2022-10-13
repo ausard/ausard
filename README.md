@@ -27,21 +27,21 @@
 </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
-</p>
+</p> -->
 
 ---
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Piyush Malhotra
-located_in: Montreal, Quebec
-current_job: Full Stack Developer
+name: Aliaksei Sabetski
+located_in: Vitebsk, Belarus
+current_job: DevOps Engineer
 education:
   [
-    "Self-Taught Developer and Designer",
+    "Self-Taught DevOps",
     "Master's in Electrical and Computer Engineering",
     "Bachelor's in Electronics and Communication",
   ]
@@ -49,22 +49,21 @@ company: Soulber
 
 fields_of_interests:
   [
-    "Web Development",
+    "DevOps",
+    "Site Reliability Engineering",
+    "Cloud enginering",
     "Data Science",
     "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
   ]
 technical_background:
   [
-    "DevOps Solutions Architect",
+    "DevOps",
     "Intern - Data Science & Machine Learning in Python",
     "Intern - Internet Of Things",
     "Intern - VLSI and FPGA Implementation",
   ]
   
-currently_learning: ["Docker, Kubernetes and React Native"]
+currently_learning: ["Python"]
 2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 ```
@@ -101,11 +100,11 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/thepiyushmalhotra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thepiyushmalhotra&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepiyushmalhotra&theme=noctis_minimus&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ausard&theme=noctis_minimus&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ausard&theme=noctis_minimus&layout=compact" />
 </a>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/thepiyushmalhotra/ausard/blob/output/github-contribution-grid-snake.svg)
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
