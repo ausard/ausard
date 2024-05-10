@@ -37,7 +37,7 @@
 
 ```yaml
 name: Aliaksei Sabetski
-located_in: Vitebsk, Belarus
+located_in: Vilnius, Lithuania
 current_job: DevOps Engineer
 education:
   [
@@ -64,7 +64,7 @@ technical_background:
   ]
   
 currently_learning: ["Python"]
-2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+2024 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 ```
   
