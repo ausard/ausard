@@ -17,14 +17,14 @@
 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;About Me - Senior Systems Engineer & DevOps Expert</h2>
+<h2> 👨🏻‍💻 &nbsp;About Me - Lead System Engineer & AI Integration Expert</h2>
 
 ```yaml
 name: Aliaksei Sabetski
 located_in: Vilnius, Lithuania
-current_role: Senior Systems Engineer
+current_role: Lead System Engineer
 company: EPAM Systems
-experience: 15+ years in industry, 4+ years specialized in DevOps & CI/CD
+experience: 15+ years in IT, 5+ years specialized in DevOps & Systems Engineering
 
 education:
   [
@@ -32,50 +32,57 @@ education:
     "Specialist in Applied Mathematics & Programming",
     "CKS: Certified Kubernetes Security Specialist (2023)",
     "CKA: Certified Kubernetes Administrator (2022)",
-    "EPAM AI Literacy Program (2024)"
+    "EPAM AI-Assisted Systems Engineering 2.0 Course (2024-2026)",
+    "Agentic AI Crash Course - 60% Complete (2026)"
   ]
 
 current_projects:
   [
-    "SAP SE - Search Technologies & AI Implementation",
-    "Infrastructure as Code (IaC) Development",
-    "Cloud Platform Optimization",
-    "CI/CD Pipeline Architecture"
+    "SAP SE - Search & AI Platform Infrastructure (Lead Engineer)",
+    "AI Integration in Systems Engineering (SME Contributor)",
+    "Team Leadership & Mentoring (2 DevOps Engineers)",
+    "Infrastructure Modernization & Security Enhancement",
+    "Production AI Systems Development"
   ]
 
 expertise_areas:
   [
-    "AWS Cloud Architecture & Optimization",
-    "Kubernetes & Container Orchestration", 
-    "Infrastructure as Code (Terraform, Helm)",
-    "CI/CD Pipeline Development",
+    "AWS Cloud Architecture & Optimization (EKS, EC2, Lambda, MSK)",
+    "Kubernetes & Container Orchestration (CKS/CKA Certified)", 
+    "Infrastructure as Code (Terraform, Helm, Ansible)",
+    "CI/CD Pipeline Development (Jenkins, GitLab CI, ArgoCD)",
+    "AI/ML Integration (LangChain, MCP Protocol, RAG Systems)",
     "Site Reliability Engineering (SRE)",
-    "Security Implementation & Best Practices",
-    "Monitoring & Observability (Prometheus, Grafana)",
-    "DevOps Automation & Optimization"
+    "Security Implementation & Best Practices (OAuth2-Proxy)",
+    "Monitoring & Observability (Prometheus, Grafana, New Relic)",
+    "Technical Leadership & Team Mentoring"
   ]
 
 key_achievements:
   [
-    "Successfully upgraded EKS clusters with zero downtime",
-    "Implemented cost optimization strategies saving 30%+ on cloud resources",
-    "Enhanced security by migrating secrets to AWS Secret Manager",
-    "Optimized EKS node volumes from gp2 to gp3 with Spot instances",
-    "Built comprehensive monitoring solutions with New Relic & Prometheus",
-    "Led infrastructure migrations and RBAC implementations"
+    "Led Disaster Recovery Simulation ($21.5K budget, 5-person team)",
+    "Maintained 60% completion rate across 40+ complex infrastructure tickets",
+    "Awarded DEP DevOps CC Consulting Badge for Engineering Observability",
+    "Successfully promoted mentee to A3 level through structured mentoring",
+    "Built 3 production AI agents with 85-90% automation rate",
+    "Achieved 5x cost reduction in AI API usage optimization",
+    "Zero-downtime EKS cluster upgrades and security enhancements",
+    "Implemented OAuth2-Proxy automation and security scanning"
   ]
 
 technical_leadership:
   [
-    "Mentoring: 126+ graduated mentees",
-    "Content Creation: 4 technical courses",
-    "Expert Sessions: 51+ conducted meetings", 
-    "Task Reviews: 242+ reviewed tasks"
+    "Team Management: Leading 2 DevOps engineers as Resource Manager",
+    "Mentoring Impact: 126+ graduated mentees",
+    "Content Creation: Contributing to 4 technical courses",
+    "Expert Sessions: 51+ mentoring sessions conducted", 
+    "Task Reviews: 242+ reviewed tasks",
+    "SME Contribution: EPAM AI-Assisted Systems Engineering 2.0 Course"
   ]
   
-currently_learning: ["Generative AI Technologies", "Advanced Kubernetes Security", "Cloud FinOps"]
-2025_goals: ["Master AI/ML DevOps Integration", "Expand Search Engine Technologies expertise", "Contribute to Open Source projects"]
-interests: ["Cloud Architecture", "Automation", "Security", "Continuous Learning", "Team Development"]
+currently_learning: ["Agentic AI Development", "MCP Protocol & RAG Systems", "Advanced AI/ML Integration", "Production AI Architecture"]
+2026_goals: ["Complete Agentic AI Crash Course", "Deploy 5 Production AI Systems", "AWS Solutions Architect Pro Certification", "Lead 3-5 Person Team"]
+interests: ["AI Engineering", "Cloud Architecture", "Infrastructure Automation", "Team Leadership", "Knowledge Sharing"]
 ```
 
 ---
@@ -134,12 +141,12 @@ interests: ["Cloud Architecture", "Automation", "Security", "Continuous Learning
 
 <h2> 🏆 &nbsp;Professional Highlights</h2>
 
-- **🔧 Infrastructure Modernization**: Led EKS cluster upgrades and cloud infrastructure optimization initiatives
-- **💰 Cost Optimization**: Implemented Spot instances and storage optimization, achieving significant cost reductions  
-- **🔒 Security Enhancement**: Migrated secrets management to AWS Secret Manager and implemented comprehensive security measures
-- **📊 Monitoring Excellence**: Built robust observability solutions using Prometheus, Grafana, and New Relic
-- **🚀 CI/CD Mastery**: Designed and optimized deployment pipelines for seamless integration and delivery
-- **👥 Team Leadership**: Mentored 126+ engineers and conducted 242+ technical reviews
+- **🤖 AI Engineering Transition**: Building production AI systems with 85-90% automation rates and 5x cost optimization
+- **👥 Engineering Leadership**: Managing 2 DevOps engineers and mentored 126+ graduated engineers
+- **🔧 Infrastructure Excellence**: Led $21.5K disaster recovery simulation and maintained 60% completion rate on complex tickets
+- **🎓 Knowledge Sharing**: Contributing to EPAM AI-Assisted Systems Engineering 2.0 course as SME
+- **🔒 Security & Compliance**: CKS certified with proven track record in security automation and best practices
+- **📊 Observability Expert**: Awarded DEP DevOps CC Consulting Badge for Engineering Observability Capabilities
 
 ---
 
@@ -156,10 +163,11 @@ interests: ["Cloud Architecture", "Automation", "Security", "Continuous Learning
 <h2> 🎯 &nbsp;Current Focus</h2>
 
 ```
-🔍 Working on: SAP Search Technologies & AI Implementation
-🌱 Learning: Generative AI Technologies, Advanced Cloud Security
-🎯 Goals: Mastering AI/ML DevOps integration and expanding search engine expertise
-💡 Interests: Cloud architecture optimization, automation innovation, team development
+🔍 Working on: SAP Search & AI Platform Infrastructure (Lead Engineer) + AI Systems Engineering
+🌱 Learning: Agentic AI Development (60% complete), MCP Protocol, Production RAG Systems
+🎯 2026 Goals: Complete AI Crash Course, Deploy 5 Production AI Systems, AWS SA Pro Cert
+💡 Transition: DevOps Excellence → AI Engineering Mastery with Leadership Impact
+👥 Team: Leading 2 DevOps Engineers + Contributing to EPAM AI Course Development
 ```
 
 <p align="center">
