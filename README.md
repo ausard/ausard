@@ -129,7 +129,7 @@ interests: ["AI Engineering", "Cloud Architecture", "Infrastructure Automation",
 
 ### 🤖 AI/ML & LLM Platforms
 <p align="left">
-<img src="https://cdn.simpleicons.org/openai/412991" alt="openai" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/openai" alt="openai" width="45" height="45"/>
 <img src="https://cdn.simpleicons.org/anthropic/191919" alt="anthropic" width="45" height="45"/>
 <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="gemini" width="45" height="45"/>
 <img src="https://cdn.simpleicons.org/ollama/000000" alt="ollama" width="45" height="45"/>
