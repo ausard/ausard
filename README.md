@@ -113,7 +113,7 @@ interests: ["AI Engineering", "Cloud Architecture", "Infrastructure Automation",
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg" alt="javascript" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastapi.svg" alt="fastapi" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachegroovy.svg" alt="groovy" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" alt="openai" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/openai" alt="openai" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg" alt="anthropic" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" alt="langchain" width="45" height="45"/>
 </p>
