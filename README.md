@@ -203,7 +203,7 @@ interests: ["AI Engineering", "Cloud Architecture", "Infrastructure Automation",
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ausard&theme=noctis_minimus&layout=compact" />
 </a>
 
-![Snake animation](https://github.com/ausard/ausard/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/ausard/ausard/output/github-contribution-grid-snake.svg)
 
 ---
 
