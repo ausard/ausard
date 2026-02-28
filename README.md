@@ -93,94 +93,94 @@ interests: ["AI Engineering", "Cloud Architecture", "Infrastructure Automation",
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kubernetes.svg" alt="kubernetes" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg" alt="docker" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/containerd.svg" alt="containerd" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/terraform.svg" alt="terraform" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ansible.svg" alt="ansible" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/helm.svg" alt="helm" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/argo.svg" alt="argocd" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flux.svg" alt="flux" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/istio.svg" alt="istio" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nginx.svg" alt="nginx" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jenkins.svg" alt="jenkins" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="kubernetes" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/docker/2496ED" alt="docker" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/containerd/575757" alt="containerd" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/terraform/844FBA" alt="terraform" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/ansible/EE0000" alt="ansible" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/helm/0F1689" alt="helm" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/argo/EF7B4D" alt="argocd" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/flux/5468FF" alt="flux" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/istio/466BB0" alt="istio" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/nginx/009639" alt="nginx" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/jenkins/D24939" alt="jenkins" width="45" height="45"/>
 </p>
 
 ### 📊 Monitoring & Observability
 <p align="left">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/grafana.svg" alt="grafana" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/prometheus.svg" alt="prometheus" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/newrelic.svg" alt="newrelic" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/datadog.svg" alt="datadog" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kibana.svg" alt="kibana" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/logstash.svg" alt="logstash" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fluentbit.svg" alt="fluentbit" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pagerduty.svg" alt="pagerduty" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/grafana/F46800" alt="grafana" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/prometheus/E6522C" alt="prometheus" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/newrelic/1CE783" alt="newrelic" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/datadog/632CA6" alt="datadog" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/kibana/005571" alt="kibana" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/logstash/005571" alt="logstash" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/fluentbit/49BDA5" alt="fluentbit" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/pagerduty/06AC38" alt="pagerduty" width="45" height="45"/>
 </p>
 
 ### 🔒 Security & Compliance
 <p align="left">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snyk.svg" alt="snyk" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/trivy.svg" alt="trivy" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/falco.svg" alt="falco" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vault.svg" alt="vault" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/letsencrypt.svg" alt="letsencrypt" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/snyk/4C4A73" alt="snyk" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/trivy/1904DA" alt="trivy" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/falco/00AEC7" alt="falco" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/vault/FFEC6E" alt="vault" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/letsencrypt/003A70" alt="letsencrypt" width="45" height="45"/>
 </p>
 
 ### 🤖 AI/ML & LLM Platforms
 <p align="left">
-<img src="https://cdn.simpleicons.org/openai" alt="openai" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg" alt="anthropic" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlegemini.svg" alt="gemini" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ollama.svg" alt="ollama" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" alt="huggingface" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" alt="langchain" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pytorch.svg" alt="pytorch" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tensorflow.svg" alt="tensorflow" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nvidia.svg" alt="nvidia" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/openai/412991" alt="openai" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/anthropic/191919" alt="anthropic" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="gemini" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/ollama/000000" alt="ollama" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="huggingface" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="pytorch" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="tensorflow" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/nvidia/76B900" alt="nvidia" width="45" height="45"/>
 </p>
 
 ### 💻 Programming & Development
 <p align="left">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="python" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnubash.svg" alt="bash" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg" alt="javascript" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachegroovy.svg" alt="groovy" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastapi.svg" alt="fastapi" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/yaml.svg" alt="yaml" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/python/3776AB" alt="python" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="bash" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="javascript" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/apachegroovy/4298B8" alt="groovy" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/fastapi/009688" alt="fastapi" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/yaml/CB171E" alt="yaml" width="45" height="45"/>
 </p>
 
 ### 🗄️ Databases & Messaging
 <p align="left">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postgresql.svg" alt="postgresql" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mysql.svg" alt="mysql" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/redis.svg" alt="redis" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/elastic.svg" alt="elasticsearch" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/opensearch.svg" alt="opensearch" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mongodb.svg" alt="mongodb" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachekafka.svg" alt="kafka" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/rabbitmq.svg" alt="rabbitmq" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="postgresql" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/mysql/4479A1" alt="mysql" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/redis/DC382D" alt="redis" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/elastic/005571" alt="elasticsearch" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/opensearch/005EB8" alt="opensearch" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/mongodb/47A248" alt="mongodb" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/apachekafka/231F20" alt="kafka" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/rabbitmq/FF6600" alt="rabbitmq" width="45" height="45"/>
 </p>
 
 ### 🔧 Development & Collaboration Tools
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cursor.svg" alt="cursor" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" alt="git" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="github" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gitlab.svg" alt="gitlab" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" alt="github-actions" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jira.svg" alt="jira" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/confluence.svg" alt="confluence" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/obsidian.svg" alt="obsidian" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/todoist.svg" alt="todoist" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/notion.svg" alt="notion" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/cursor/000000" alt="cursor" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/git/F05032" alt="git" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/github/181717" alt="github" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/gitlab/FC6D26" alt="gitlab" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="github-actions" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/jira/0052CC" alt="jira" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/confluence/172B4D" alt="confluence" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/obsidian/7C3AED" alt="obsidian" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/todoist/E44332" alt="todoist" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/notion/000000" alt="notion" width="45" height="45"/>
 </p>
 
 ### 🖥️ Operating Systems
 <p align="left">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg" alt="linux" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ubuntu.svg" alt="ubuntu" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/linux/FCC624" alt="linux" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/ubuntu/E95420" alt="ubuntu" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="45" height="45"/>
 </p>
 
