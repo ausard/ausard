@@ -91,8 +91,8 @@ interests: ["AI Engineering", "Cloud Architecture", "Infrastructure Automation",
 
 ### ☁️ Cloud & Infrastructure
 <p align="left">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonwebservices.svg" alt="aws" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftazure.svg" alt="azure" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kubernetes.svg" alt="kubernetes" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg" alt="docker" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/terraform.svg" alt="terraform" width="45" height="45"/>
@@ -113,7 +113,7 @@ interests: ["AI Engineering", "Cloud Architecture", "Infrastructure Automation",
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg" alt="javascript" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastapi.svg" alt="fastapi" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachegroovy.svg" alt="groovy" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" alt="openai" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" alt="openai" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg" alt="anthropic" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" alt="langchain" width="45" height="45"/>
 </p>
@@ -130,7 +130,7 @@ interests: ["AI Engineering", "Cloud Architecture", "Infrastructure Automation",
 
 ### 🔧 Development & Collaboration Tools
 <p align="left">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cursor.svg" alt="cursor" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" alt="git" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="github" width="45" height="45"/>
@@ -145,7 +145,7 @@ interests: ["AI Engineering", "Cloud Architecture", "Infrastructure Automation",
 <p align="left">
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg" alt="linux" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ubuntu.svg" alt="ubuntu" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/windows.svg" alt="windows" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="45" height="45"/>
 </p>
 
 ---
